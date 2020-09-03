@@ -1,5 +1,5 @@
 ---
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Users/danischoolcomputer/turing/job-stuff/dcoleman21/Assets/images/logo.png)
 ---
 
 ## Currently:
