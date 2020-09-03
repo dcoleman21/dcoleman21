@@ -1,5 +1,5 @@
 ---
-![GitHub Logo](/images/RepoBanner.png)
+![GitHub Logo](/images/logo.png)
 ---
 
 ## Currently:
