@@ -1,5 +1,5 @@
 ---
-image: /assets/images/(RepoBanner.png)
+![GitHub Logo](/images/RepoBanner.png)
 ---
 
 ## Currently:
