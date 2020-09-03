@@ -1,5 +1,5 @@
 ---
-![Dani Coleman](/assests/images/logo.png)
+![Dani Coleman](/assets/images/logo.png)
 ---
 
 ## Currently:
