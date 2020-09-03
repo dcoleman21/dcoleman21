@@ -1,4 +1,6 @@
-(./assets/photos/RepoBanner.png)
+---
+image: /assets/images/(RepoBanner.png)
+---
 
 ## Currently:
 Learning backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating January 2021)
