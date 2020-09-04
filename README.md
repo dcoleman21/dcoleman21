@@ -1,5 +1,6 @@
 ---
-![logo](https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png)
+<!-- ![logo](https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png) -->
+<img width="1211" src="https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png">
 ---
 
 ## Currently:
