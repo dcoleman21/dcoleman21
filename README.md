@@ -4,7 +4,7 @@
 ---
 
 ## Currently:
-Learning backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating January 2021)
+Learning backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating March 2021)
 
 [![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dcoleman21&theme=blue-green)](https://github.com/dcoleman21/github-readme-stats)
 
