@@ -10,4 +10,4 @@ Learning backend engineering at [Turing School of Software and Design](https://t
 
 ### Contact Me:
 Email: danicoleman00@gmail.com
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/https://www.linkedin.com/in/dcoleman-21/?style=for-the-badge&logo=linkedin&logoColor=white)
