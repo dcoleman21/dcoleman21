@@ -3,10 +3,17 @@
 <img width="1211" src="https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png">
 ---
 
-## Currently:
-Learning backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating March 2021)
+## Completed:
+Graduated the backend engineering program at [Turing School of Software and Design](https://turing.io/) (3/11/2021)
 
-[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dcoleman21&theme=blue-green)](https://github.com/dcoleman21/github-readme-stats)
+
+## Currently:
+Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Reference_Sheet) reference guide
+
+
+[![Dani's github stats]([![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcoleman21&count_private=true&show_icons=true&theme=radical)
+](https://github.com/dcoleman21/github-readme-stats)
+
 
 ### Contact Me:
 
