@@ -11,7 +11,7 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Reference_Sheet) reference guide
 
 
-[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
+[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight&langs_count=2)
 ](https://github.com/dcoleman21/github-readme-stats)
 
 
