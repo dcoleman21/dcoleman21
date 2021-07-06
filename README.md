@@ -33,7 +33,7 @@ danicoleman00@gmail.com
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+    <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
     
