@@ -19,9 +19,6 @@ danicoleman00@gmail.com
 [![Dani's github stats](https://github-readme-stats.vercel.app/api/?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
 ](https://github.com/dcoleman21/github-readme-stats)
 
-## Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&theme=tokyonight&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -36,9 +33,21 @@ danicoleman00@gmail.com
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
- 
+    
 </p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+</p>
+
+## Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&theme=tokyonight&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
 ## Continued Learning 
 
