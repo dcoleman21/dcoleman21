@@ -19,6 +19,9 @@ Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Re
 
 
 
+[![Dani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcoleman21)](https://github.com/dcoleman21/github-readme-stats)
+
+
 ### Contact Me:
 
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) danicoleman00@gmail.com
