@@ -24,4 +24,4 @@ danicoleman00@gmail.com
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=javaScript-reference-sheet)](https://github.com/dcoleman21/JavaScript_Reference_Sheet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=JavaScript_Reference_Sheet)](https://github.com/dcoleman21/JavaScript_Reference_Sheet)
