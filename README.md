@@ -7,8 +7,8 @@
 Graduated the backend engineering program at [Turing School of Software and Design](https://turing.io/) (3/11/2021)
 
 
-## Currently:
-Learning JavaScript. 
+## Currently Learning:
+  * JavaScript
 
 ## GitHub Breakdown
 [![Dani's github stats](https://github-readme-stats.vercel.app/api/?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
