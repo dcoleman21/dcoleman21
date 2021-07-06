@@ -10,22 +10,12 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 ## Currently:
 Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Reference_Sheet) reference guide
 
-<a href="https://github.com/dcoleman21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/dcoleman21/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=convoychat" />
-</a>
+
+[![Dani's github stats](https://github-readme-stats.vercel.app/api/?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
+](https://github.com/dcoleman21/github-readme-stats)
 
 
-<!-- [![Dani's github stats](https://github-readme-stats.vercel.app/api/?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
-](https://github.com/dcoleman21/github-readme-stats) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
- -->
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
 
 ### Contact Me:
