@@ -15,7 +15,7 @@ Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Re
 ](https://github.com/dcoleman21/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21)](https://github.com/dcoleman21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
 
 
