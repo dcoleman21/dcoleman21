@@ -6,9 +6,14 @@
 ## Completed:
 Graduated the backend engineering program at [Turing School of Software and Design](https://turing.io/) (3/11/2021)
 
-## Contact Me:
+## 💁‍♀️ Connect with me
 
-danicoleman00@gmail.com
+<p align="center"
+   <a href="danicoleman00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/dcoleman-21/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</p>   
+
+
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
 
@@ -46,6 +51,18 @@ danicoleman00@gmail.com
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+</p> 
+
+
 
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&theme=tokyonight&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
