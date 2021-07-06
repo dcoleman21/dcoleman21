@@ -5,7 +5,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="milkyway" src="https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png" />
+<img align="right" height="250px" width="450px" alt="milkyway" src="https://user-images.githubusercontent.com/60626984/92288059-def9bc80-eec8-11ea-90d6-6c50261e37de.png" />
 
 <p align="left"
   <h2>I am an adventurous, curious, compassionate, and creative soul who loves nature 🌳, outdoors 🥾, photography 📷, music 🎧  and learning 👩‍🎓. I also recently embarked on a new journey into the tech 💻 realm. I completed the backend engineering program at Turing School of Software and Design in March of 2021.</h2>
