@@ -28,8 +28,9 @@ danicoleman00@gmail.com
 
 <p>
     <a href="https://github.com/search?q=user%3Adcoleman21+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-   <a href="https://github.com/search?l=JavaScript&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
- <a href="https://github.com/search?l=Python&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?l=JavaScript&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?l=Python&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?l=HTML&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 
 
