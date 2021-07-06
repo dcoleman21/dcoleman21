@@ -10,6 +10,8 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 
 danicoleman00@gmail.com
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
+
 ## Currently Learning:
   * JavaScript
 
@@ -26,9 +28,11 @@ danicoleman00@gmail.com
 
 <p>
     <a href="https://github.com/search?q=user%3Adcoleman21+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3Adcoleman21+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
+
 
 ## Continued Learning 
 
