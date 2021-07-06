@@ -6,6 +6,9 @@
 ## Completed:
 Graduated the backend engineering program at [Turing School of Software and Design](https://turing.io/) (3/11/2021)
 
+## Contact Me:
+
+danicoleman00@gmail.com
 
 ## Currently Learning:
   * JavaScript
@@ -17,10 +20,13 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&theme=tokyonight&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
+## 🛠️ My favorite tools
 
-## Contact Me:
+### 👨‍💻 Programming languages
 
-danicoleman00@gmail.com
+<p>
+    <a href="https://github.com/search?q=user%3Adcoleman21+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+</p>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
 
