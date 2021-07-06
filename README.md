@@ -26,4 +26,4 @@ danicoleman00@gmail.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=JavaScript_Reference_Sheet)](https://github.com/dcoleman21/JavaScript_Reference_Sheet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=JRuby_Reference_Sheet)](https://github.com/dcoleman21/Ruby_Reference_Sheet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcoleman21&repo=Ruby_Reference_Sheet)](https://github.com/dcoleman21/Ruby_Reference_Sheet)
