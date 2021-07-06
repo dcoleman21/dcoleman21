@@ -28,15 +28,16 @@ danicoleman00@gmail.com
     <a href="https://github.com/search?l=JavaScript&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?l=Python&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?l=HTML&q=user%3Adcoleman21+is%3Arepo+language%3Amarkdown&type=Repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
-    
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
