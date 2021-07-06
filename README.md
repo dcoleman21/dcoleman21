@@ -18,8 +18,8 @@ Learning JavaScript. Creating [this](https://github.com/dcoleman21/JavaScript_Re
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
 
-
-[![Dani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcoleman21)](https://github.com/dcoleman21/github-readme-stats)
+<!--Look into wakatime account -->
+<!-- [![Dani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcoleman21)](https://github.com/dcoleman21/github-readme-stats) -->
 
 
 ### Contact Me:
