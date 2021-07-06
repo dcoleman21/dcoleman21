@@ -9,13 +9,13 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 ## 💁‍♀️ Connect with me
 
 <p align="center"
-   <a href="danicoleman00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+   <a href="mailto:danicoleman00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dcoleman-21/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </p>   
 
 
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/)
+<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoleman-21/) -->
 
 ## Currently Learning:
   * JavaScript
