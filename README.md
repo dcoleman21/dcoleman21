@@ -10,11 +10,11 @@ Graduated the backend engineering program at [Turing School of Software and Desi
 ## Currently:
 Learning JavaScript. 
 
-
+## GitHub Breakdown
 [![Dani's github stats](https://github-readme-stats.vercel.app/api/?username=dcoleman21&count_private=true&show_icons=true&theme=tokyonight)
 ](https://github.com/dcoleman21/github-readme-stats)
 
-
+## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcoleman21&theme=tokyonight&layout=compact)](https://github.com/dcoleman21/github-readme-stats)
 
 
