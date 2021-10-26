@@ -5,7 +5,7 @@
 
 <br />
 
-<img align="center" height="350px" width="550px" alt="golden abyss" src="https://user-images.githubusercontent.com/60626984/138899350-f590d5a8-58c1-4c19-a99b-5422a48294c7.jpeg" />
+<img align="center" height="350px" width="650px" alt="golden abyss" src="https://user-images.githubusercontent.com/60626984/138899350-f590d5a8-58c1-4c19-a99b-5422a48294c7.jpeg" />
 
 
 <p align="center"
