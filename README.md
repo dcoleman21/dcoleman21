@@ -5,7 +5,7 @@
 
 <br />
 
-<img align="right" height="350px" width="450px" alt="golden abyss" src="https://user-images.githubusercontent.com/60626984/138899350-f590d5a8-58c1-4c19-a99b-5422a48294c7.jpeg" />
+<img align="right" height="350px" width="550px" alt="golden abyss" src="https://user-images.githubusercontent.com/60626984/138899350-f590d5a8-58c1-4c19-a99b-5422a48294c7.jpeg" />
 
 <p align="left"
   <h2>I am an adventurous, curious, compassionate, and creative soul who loves nature 🌳, outdoors 🥾, photography 📷, music 🎧  and learning 👩‍🎓. I also recently embarked on a new journey into the tech 💻 realm. I entered the backend engineering program at Turing School of Software and Design in May of 2020 and have been loving learning about creating both monolith and microservice oriented applications, database querying and building API request/responses.</h2>
