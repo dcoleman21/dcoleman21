@@ -10,7 +10,7 @@
 
 <p align="center"
   <h2>I am an adventurous, curious, compassionate, and creative soul who loves nature 🌳, outdoors 🥾, photography 📷, music 🎧  and learning 👩‍🎓. I also recently embarked on a new journey into the tech 💻 realm. I entered the backend engineering program at Turing School of Software and Design in May of 2020 and have been loving learning about creating both monolith and microservice oriented applications, database querying and building API request/responses.</h2>
-  <h4>Check them out here: https://turing.io/</h4>
+  <h4>Check them out here: https://turing.edu/</h4>
 </p>  
 
 <br />
