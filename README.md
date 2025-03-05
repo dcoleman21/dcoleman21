@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <strong> Dani Coleman | :computer: Backend Developer | :mountain: Arvada, CO </strong>
+ <strong> Dani Coleman | :computer: Backend Developer | :mountain: Hudson, NH </strong>
 </h1>   
 
 <br />
@@ -9,7 +9,7 @@
 
 
 <p align="center"
-  <h2>I am an adventurous, curious, compassionate, and creative soul who loves nature 🌳, outdoors 🥾, photography 📷, music 🎧  and learning 👩‍🎓. I also recently embarked on a new journey into the tech 💻 realm. I entered the backend engineering program at Turing School of Software and Design in May of 2020 and have been loving learning about creating both monolith and microservice oriented applications, database querying and building API request/responses.</h2>
+  <h2>I am an adventurous, curious, compassionate, and creative soul who loves nature 🌳, outdoors 🥾, photography 📷, music 🎧  and learning 👩‍🎓. My journey into the tech 💻 realm started when I completed the backend engineering program at Turing School of Software and Design in 2021. I then had the opportunity to become the teacher and loved helping others explore creating both monolith and microservice oriented applications, database querying and building API request/responses. While my journey continues to evolve and change, I still very much love learning, teaching, and fostering collaborative spaces.</h2>
   <h4>Check them out here: https://turing.edu/</h4>
 </p>  
 
